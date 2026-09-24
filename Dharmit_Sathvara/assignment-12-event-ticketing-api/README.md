@@ -4,6 +4,8 @@ A high-concurrency, production-ready Event Ticketing & Live Booking REST API bui
 
 ---
 
+Live link : https://assignment-12-event-management-ticketing-37lp.onrender.com
+
 ## 📌 Features
 
 - **ACID Transactions (`runTransaction`)**: Atomic ticket decrement and inventory management to prevent overselling under high concurrency.
